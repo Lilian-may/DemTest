@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gandon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69ad0ccba7e1d95b5113cd4bfc23f124b5f377b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("gandon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gandon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
